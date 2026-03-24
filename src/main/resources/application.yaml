@@ -8,9 +8,9 @@ spring:
     name: producto-api
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
+    url: jdbc:postgresql://localhost:5432/producto
     username: postgres
-    password: admin
+    password: 2000
     driver-class-name: org.postgresql.Driver
 
   jpa:
